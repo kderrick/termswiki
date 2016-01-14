@@ -1,3 +1,14 @@
+#css-example h1 {
+  color: blue;
+}
+
+#css-example h3 {
+  text-decoration: underline;
+}
+
+#css-example p {
+  font-style: italic;
+}
 
 .page-header {
   text-align: center;
@@ -15,7 +26,7 @@
   border-bottom: 1px solid #EFEEEE;
 }
 
-.example p {
+.example .row {
   border: 1px solid #EFEEEE;
   padding: 5px;
 }
