@@ -1,3 +1,33 @@
+
+.page-header {
+  text-align: center;
+}
+
+.container {
+  margin-left: 0;
+}
+
+.content {
+  padding-left: 200px;
+}
+
+.definition {
+  border-bottom: 1px solid #EFEEEE;
+}
+
+.example p {
+  border: 1px solid #EFEEEE;
+  padding: 5px;
+}
+
+@media (max-width: 767px) {
+  .content {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+}
+
+
 @media (min-width: 768px) {
   .navbar-collapse {
     height: auto;
@@ -18,9 +48,10 @@
   }
 
   .navbar {
-  	max-width:200px;
-  	margin-right: 0;
-  	margin-left: 0;
+    max-width:200px;
+    margin-right: 0;
+    margin-left: 0;
+    float: left;
   }
 
   .navbar-nav,
@@ -33,6 +64,6 @@
   }
 
   .navbar-collapse {
-      margin-right: 0;
+    margin-right: 0;
   }
 }
