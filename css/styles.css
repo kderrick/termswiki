@@ -20,6 +20,13 @@
   padding: 5px;
 }
 
+#checkout {
+  font-weight: bold;
+}
+.about-us {
+  margin-top: 30px;
+}
+
 @media (max-width: 767px) {
   .content {
     padding-left: 25px;
