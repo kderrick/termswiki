@@ -2,10 +2,10 @@
 
 #### A definition site for programming terms, 1.14.2016
 
-#### By Michelle Brecunier and Kyle Derrick
+#### By Kyle Derrick
 
 ## Description
-
+This repository only remains for posterity. It is an incomplete work and will not be updated any further.
 This website will have links to definitions and examples of common concepts, terms, and syntax that we use at Epicodus.
 
 ## Setup/Installation Requirements
