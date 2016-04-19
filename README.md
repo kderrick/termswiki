@@ -19,7 +19,7 @@ No known bugs.
 
 ## Support and contact details
 
-Contact mbrecunier or kderrick through github.
+Contactkderrick through github.
 
 
 ### License
